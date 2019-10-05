@@ -19,5 +19,4 @@
         android:id="@+id/analysis"
         android:icon="@drawable/ic_notifications_black_24dp"
         android:title="Analysis" />
-
 </menu>
